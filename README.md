@@ -6,7 +6,7 @@ To run the code in this repository, please follow the steps below:
 
 1. Clone the repository to your local machine:
     ```
-    git clone https://github.com/your-username/Olympics-EDA-ML.git
+    git clone https://github.com/Zec-Wicks/Olympics-EDA-ML.git
     ```
 
 2. Download the dataset from [The Guardian - Kaggle](https://www.kaggle.com/datasets/the-guardian/olympic-games) and save it into the `\Data\` folder of this repository.
@@ -16,7 +16,7 @@ To run the code in this repository, please follow the steps below:
     pip install -r requirements.txt
     ```
 
-4. Open the Jupyter Notebook `olympics_eda_ml.ipynb` to explore the code and analysis.
+4. Open the Jupyter Notebook `Olympic_EDA_and_ML.ipynb` to explore the code and analysis.
 
 5. Execute the notebook cells to reproduce the EDA (Exploratory Data Analysis) and ML (Machine Learning) models.
 
